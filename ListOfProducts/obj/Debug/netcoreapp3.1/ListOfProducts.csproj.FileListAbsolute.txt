@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.exe
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.deps.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\bin\Debug\netcoreapp3.1\ListOfProducts.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListOfProducts\obj\Debug\netcoreapp3.1\ListOfProducts.genruntimeconfig.cache

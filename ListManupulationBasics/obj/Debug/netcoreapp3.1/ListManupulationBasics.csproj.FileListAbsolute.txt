@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\bin\Debug\netcoreapp3.1\ListManupulationBasics.exe
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\bin\Debug\netcoreapp3.1\ListManupulationBasics.deps.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\bin\Debug\netcoreapp3.1\ListManupulationBasics.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\bin\Debug\netcoreapp3.1\ListManupulationBasics.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\bin\Debug\netcoreapp3.1\ListManupulationBasics.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\bin\Debug\netcoreapp3.1\ListManupulationBasics.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.genruntimeconfig.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManupulationBasics\obj\Debug\netcoreapp3.1\ListManupulationBasics.csprojAssemblyReference.cache
