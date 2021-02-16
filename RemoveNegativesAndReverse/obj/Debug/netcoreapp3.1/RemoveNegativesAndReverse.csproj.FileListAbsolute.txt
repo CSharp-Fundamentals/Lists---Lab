@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.exe
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.deps.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csprojAssemblyReference.cache
