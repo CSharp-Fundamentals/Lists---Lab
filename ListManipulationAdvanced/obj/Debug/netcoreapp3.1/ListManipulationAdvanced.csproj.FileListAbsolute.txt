@@ -1,0 +1,12 @@
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.exe
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.deps.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+C:\Users\rchaushev001\source\repos\SumAdjacentEqualNumbers\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.genruntimeconfig.cache
